@@ -3,7 +3,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const port = 3000;
+const port = 3001;
 const staticDir = path.join(__dirname, 'src');
 
 // MIME types for common file extensions
