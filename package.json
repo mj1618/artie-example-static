@@ -1,9 +1,9 @@
 {
   "name": "artie-example-static",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,6 @@
     "url": "https://github.com/mj1618/artie-example-static/issues"
   },
   "homepage": "https://github.com/mj1618/artie-example-static#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {}
 }
